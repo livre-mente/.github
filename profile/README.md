@@ -178,13 +178,9 @@ php artisan test
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👤 Autor
 
-**Gabriel**
+**Gabriel Domiciano**
 - Email: gabriel.ads18@gmail.com
 
 ## 🙏 Agradecimentos
